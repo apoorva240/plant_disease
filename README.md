@@ -5,7 +5,6 @@ The process of plant disease prediction involves collecting data from various so
 
 In conclusion, plant disease prediction using AI and ML is a promising approach to improving crop productivity and reducing losses. As these technologies continue to advance, we can expect to see more accurate and efficient disease detection methods to help farmers manage their crops better and improve food security.
 
-# What It Does ![image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
 
 
 
@@ -19,7 +18,7 @@ In conclusion, plant disease prediction using AI and ML is a promising approach 
 
 ### ✅Test Different Models and find the best model out of it
 
-### ✅Train the model using Intel oneDNN to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))
+### ✅Train the model using Intel oneDNN to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDNN))
 ![intel](https://user-images.githubusercontent.com/72274851/218504609-585bcebe-5101-4477-bdd2-3a1ba13a64a8.png)
 
 
@@ -31,17 +30,15 @@ The Intel® oneAPI Deep Neural Network Library (oneDNN) provides highly optimize
 
 ✅Building application using intel oneDNN:The Intel oneAPI Data Neural Network Library (oneDNN) contributes to the acceleration of big data analysis by providing highly optimised algorithmic building blocks for all phases of data analytics (preprocessing, transformation, analysis, modelling, validation, and decision making) in batch, online, and distributed processing modes of computation.The library optimizes data ingestion along with algorithmic computation to increase throughput and scalability.
 
-✅Building a crop recommendation application involves a significant amount of research and development. During the process, I likely learned a number of things, including:
+✅Building a plant disease prediction application involves a significant amount of research and development. During the process, I likely learned a number of things, including:
 
-✅Soil Science: I likely gained a deeper understanding of soil science and the various factors that affect crop growth, such as pH levels, nutrient content, and soil moisture levels.
-
-✅Machine Learning: I likely learned about different machine learning algorithms and how they can be applied to predict crop yields and make recommendations for farmers.
+✅Machine Learning: I likely learned about different machine learning algorithms and how they can be applied to predict the diseases in plants.
 
 ✅Data Analysis: I likely gained experience in collecting and analyzing large amounts of data, including historical crop yield data and soil data, to train our machine learning models.
 
-✅Agricultural Trends: I likely gained insight into current trends in agriculture and the challenges facing farmers, such as the need for sustainable and efficient crop production.
+✅Agricultural Trends: I likely gained insight into current trends in agriculture, such as the need for sustainable and efficient crop production.
 
-✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as soil science, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
+✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
 
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
-Overall, building a crop recommendation application is a challenging and rewarding experience that requires a combination of technical expertise and agricultural knowledge.
+Overall, building a plant disease prediction application is a challenging and rewarding experience that requires a combination of technical expertise and agricultural knowledge.
