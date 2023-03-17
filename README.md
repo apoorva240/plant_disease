@@ -18,7 +18,7 @@ In conclusion, plant disease prediction using AI and ML is a promising approach 
 
 ### ✅Test Different Models and find the best model out of it
 
-### ✅Train the model using Intel oneDNN to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDNN))
+### ✅Train the model using Intel oneDNN to get better results and faster computation(Intel oneAPI Data Neural Network (oneDNN))
 ![intel](https://user-images.githubusercontent.com/72274851/218504609-585bcebe-5101-4477-bdd2-3a1ba13a64a8.png)
 
 
